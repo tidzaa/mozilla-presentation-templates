@@ -21,7 +21,7 @@
     });
   }
 
-  /* Encode code blocks */
+  // Encode code blocks 
   function encode() {
     var codes = document.querySelectorAll('code');
     var all = codes.length;
